@@ -1,0 +1,19 @@
+Design Name: stdp
+Run Directory: /openlane/designs/stdp/runs/run1
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/stdp/runs/run1/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/stdp/runs/run1/logs/signoff/38-stdp.lef.lvs.log
+Number of nets: 195                        |Number of nets: 195                        
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/stdp/runs/run1/logs/signoff/40-arc.log
+Pin violations: 0
+Net violations: 0
